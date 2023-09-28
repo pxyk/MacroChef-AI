@@ -8,7 +8,8 @@ GPT-4 API <br />
 React.js <br />
 Next.js <br />
 Tailwind.css <br />
-<br />
+TypeScript <br />
+
 DEMO: https://macrochef-ai.vercel.app/
 
 
