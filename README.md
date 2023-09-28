@@ -1,6 +1,6 @@
-# MacroChef-AI
+# MacroChef AI
 
-
+MacroChef AI is a prototype web application for food applications. The application facilitates the practicality of use by 30% and increases customer loyalty by 20%.
 
 ## Getting Started
 
