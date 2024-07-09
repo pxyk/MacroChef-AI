@@ -22,5 +22,9 @@ npm run dev
 ```
 Replace the API key in the .env file with your own Open AI API key.
 ```
-
+<!--
 ![screencapture-localhost-3000-2023-09-27-11_13_03](https://github.com/pxyk/MacroChef-AI/assets/101509856/c76055b1-e72e-4796-ab3e-b29289eefcb0)
+-->
+
+![macrochef-2024](https://github.com/pxyk/MacroChef-AI/assets/101509856/3f6a43d8-14ea-4691-940f-530ededdee73)
+
